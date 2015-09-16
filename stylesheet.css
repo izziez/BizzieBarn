@@ -1,0 +1,203 @@
+body {
+	background-color: #E0D6CC;
+}
+
+.navbar-default {
+    background-color: black;
+    border-color: black;
+    color: #E0D6CC;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.navbar-default .navbar-brand {
+    color: #E0D6CC;
+    font-family: 'Marck Script', cursive;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.navbar-default .navbar-brand:hover {
+		color: #E0D6CC;
+    font-family: 'Marck Script', cursive;
+    font-weight: 300;
+}
+
+.navbar-default .navbar-brand:visited {
+    color: #E0D6CC;
+    font-family: 'Marck Script', cursive;
+    font-weight: 300;
+}
+
+.nav>li {
+	background-color: black;
+    border-color: black;
+    color: #E0D6CC;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 300;
+}
+
+
+.nav>li:hover {
+	background-color: black;
+    border-color: black;
+    color: #E0D6CC;
+    font-family: 'Marck Script', cursive;
+    font-weight: 300;
+}
+
+.nav>li:visited {
+    background-color: black;
+    border-color: black;
+    color: #E0D6CC;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 300;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    color: #E0D6CC;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 300;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #E0D6CC;
+    font-family: 'Marck Script', cursive;
+    font-weight: 300;
+}
+
+.navbar-default .navbar-nav>li>a:visited {
+    background-color: black;
+    border-color: black;
+    color: #E0D6CC;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 300;
+}
+
+
+.jumbotron {
+	background-image: url(https://equestrianbitch.files.wordpress.com/2013/08/hdr-horse-barns.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+ 	padding-top: 18%;
+    width: 100%;
+ 	margin-top: -40px;
+ 	background-position:  center;
+ 	height: 550px;
+}
+
+.jumbotron h1 {
+	font-family: 'Marck Script', cursive;
+	color: black;
+ 	background-color: rgba(224, 214, 204, .5);
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-size: 100px;
+ 	text-align: center;
+ 	font-style: bold;
+}
+
+
+.jumbotron h3 {
+	font-family: 'Shadows Into Light', cursive;
+	color: black;
+	background-color: rgba(224, 214, 204, .5);
+    padding: 18px;
+    margin: 0;
+    border: 0;
+    text-align: center;
+	font-size: 40px;
+	font-style: bold;
+}
+
+h3 {
+	font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+h5 {
+	font-family: 'Shadows Into Light', cursive;
+	text-align: center;
+	color: black;
+	font-size: 30px;
+}
+
+p {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+}
+
+#description {
+	margin-bottom: 5%;
+}
+
+#about {
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 20px;
+    padding: 1% 15% 1%;
+}
+
+.mission {
+	font-size: 25px;
+}
+
+.photo {
+    border-radius: 50%;
+    padding: 0% 35% 0%;
+}
+
+#izzie {
+    padding: 1% 15% 5%;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.footer {
+    color: #E0D6CC;
+    background-color: black;
+    font-size: 18px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-align: right;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+
+}
+
+.footer ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 2%;
+}
+
+footer p{
+	font-family: 'Marck Script', cursive;
+    color: #E0D6CC;
+    background-color: black;
+    float: left;
+    padding: 2%;
+}
+
+.pro_problem {
+    padding: 1% 15% 5%;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.pro_solution {
+    padding: 1% 15% 5%;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    }
